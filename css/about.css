@@ -24,6 +24,7 @@
     font-weight: 500;
     font-size: 60px;
     text-decoration: underline;
+    color: white;
 }
 .about-text{
     width: 700px;
@@ -33,10 +34,10 @@
     font-family: Asap, Roboto;
     font-style: normal;
     font-size: 16px;
+    color: white;
 }
 .other-things-we-do{
     background-color: white;
-    width: 100%;
     margin-left: 350px;
     margin-top: 20px;
 }
@@ -59,6 +60,10 @@
     box-shadow: 3px 4px 15px 1px rgba(0, 0, 0, 0.25);
     margin-top: 20px;
     border-radius: 20px;
+
+}
+.left{
+    margin-left: 90px;
 }
 .card img{
     border-radius: 20px 20px 0px 0px;
@@ -93,7 +98,7 @@
 
 .mail-us{
     background: rgba(243, 154, 189, 0.9);
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .mail-us div{
@@ -103,29 +108,46 @@
     padding: 5px;
     font-family: Asap;
     font-style: italic;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 25px;
-    color: #62615D;
-}
-
-.mail-us input{
-    border: none;
-    margin-top: 5px;
+    color:black;
 }
 
 .mail-us input[type=email]{
+    font-family: Asap;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    padding-left: 10px;
+    border: none;
     width: 400px;
     height: 30px;
+    border-radius: 5px;
+    margin-top: 5px;
 }
 
-.mail-us input[type=text]{
-    width: 800px;
-    height: 120px;
+input,textarea:focus{
+    outline: none;
 }
 
-.mail-us button{
-    margin-top: 10px;
-    margin-left: 700px;
+.mail-us textarea{
+    margin-top: 5px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+
+button{
+    font-family: Asap;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    margin: 10px 0px 10px 580px;
+    border-radius: 10px;
     border: none;
     width: 100px;
     height: 40px;
