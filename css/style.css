@@ -157,23 +157,32 @@
 footer{
     background-color: #62615D;
     width: 84.21rem;
-    height: 190px;
+    height: 12.475rem;
 }
 
 .page-detils{
     float: left;
-    width:500px;
-    margin-bottom: 15px;
-    margin-left: 150px;
-    margin-top: 25px;
+    width:31.25rem;
+    margin-left: 13.375rem;
+    margin-top: 2rem;
+}
+
+.contact-details{
+    float: right;
+    width: 18.75rem;
+    position: absolute;
+    left: 40.5rem;
+    margin-bottom: 0.938rem;
+    margin-left: 7.5rem;
+    margin-top: 2rem;
 }
 
 .things-we-do-header a{
-    margin-top: 20px;
-    margin-left: 70px;
+    margin-top: 1.25rem;
+    margin-left: 4.375rem;
     color: #F39ABD;
     font: Roboto,monospace;
-    font-size: 15px;
+    font-size: 1rem;
     cursor: pointer;
 }
 
@@ -182,56 +191,47 @@ footer{
 }
 
 .things-we-can-do{
-    width: 400px;
-    height: 100px;
+    width: 25rem;
+    height: 6.25rem;
     color: white;
-    margin-left: 4px;
+    margin-left: 0.25rem;
     
 }
 
 .things-we-can-do div{
-    margin-top: 12px;
+    margin-top: 0.75rem;
 }
 
 .things-we-can-do span{
-    margin-left: 60px;
+    margin-left: 3.75rem;
    
     list-style-type: none;
 }
 
 #event-catering{
-    margin-left: 50px;
+    margin-left: 3.125rem;
 }
 
 .about-us-header{
-    margin-top: -137px;
-    margin-left: 400px;
+    margin-top: -8.563rem;
+    margin-left: 25rem;
     color: #F39ABD;
     font: Roboto,monospace;
-    font-size: 15px;
+    font-size: 0.938rem;
 
-}
-.contact-details{
-    float: right;
-    width: 300px;
-    position: absolute;
-    left: 600px;
-    margin-bottom: 15px;
-    margin-left: 120px;
-    margin-top: 25px;
 }
 
 .contact-us-header{
-    margin-top: 20px;
+    margin-top: 1.25rem;
     color: #F39ABD;
     font: Roboto,monospace;
-    font-size: 15px;
+    font-size: 0.875rem;
 
 }
 
 .contact-us-header div{
-    margin-top: 10px;
-    margin-left: -1px;
+    margin-top: 0.625rem;
+    margin-left: -0.063rem;
 }
 
 .fa{
@@ -240,30 +240,30 @@ footer{
 }
 
 .fa div{
-    margin-top: 1px;
-    padding-left: 5px;
+    margin-top: 0.063rem;
+    padding-left: 0.313rem;
     display: inline-flex;
 }
 
 .follow-us-header{
-    margin-top: -83px;
-    margin-left: 190px;
+    margin-top: -5.188rem;
+    margin-left: 11.875rem;
     color: #F39ABD;
     font: Roboto,monospace;
-    font-size: 15px;
+    font-size: 0.938rem;
 
 }
 
 .follow-us-header div{
-    width: 100px;
+    width: 6.25rem;
     display: inline-flex;
 }
 #social-icons{
-    margin-top: 10px;
-    margin-right: 5px;
-    padding: 12px;
-    font-size: 17px;
-    width: 20px;
+    margin-top: 0.625rem;
+    margin-right: 0.313rem;
+    padding: 0.75rem;
+    font-size: 1.063rem;
+    width: 1.25rem;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
@@ -271,13 +271,13 @@ footer{
 }
 
 .about-us{
-    margin-top: 12px;
-    width: 180px;
-    height: 100px;
+    margin-top: 0.75rem;
+    width: 11.25rem;
+    height: 6.25rem;
 }
 .about-us div{
     margin-left: 0px;
-    margin-top: 12px;
+    margin-top: 0.75rem;
     
 }
 
